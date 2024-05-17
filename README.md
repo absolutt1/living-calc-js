@@ -40,7 +40,20 @@
 #### how the user will interact with the program. Which piece(s) of the program will they press and what will the effect be? 
 => The interaction process is pretty straightforward. It only takes you to type your guess via keyboard that is real-time displayed on the scene. Eventually, it impacts your livingness throughout the 5 round game by checking your answers with the actual calculations.
 
+## Your presentation should
 
+#### State the title of your program 
+=> CalcIt!
+#### State your name(s) 
+=> My name is Arnar!
+#### Explain what your program does 
+=> This simple game introduces us to an asteroid where we are initially living. However, some comet is on the way to hit our asteroid which would cause massive destruction. That is why there is a simple arithmetic calculations to be solved to stop the comet.
+#### Explain how the user interacts with the program
+=> In the console, as you're given a problem, you should be able to type your answer in the console.
+#### Describe the most challenging part of the program for your team and how you overcame the problem 
+=> To be honest, it should be handling the time updating per 100 miliseconds. Some logical code should be written to get it to working which I did.
+#### Include screenshots, gifs, and/or video of your program for the audience to refer to, in case they can’t actually use your program
+=> 
 
 
 
