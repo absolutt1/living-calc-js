@@ -57,9 +57,6 @@ function randomValGenerator(rangeMax, rangeMin) {
     return val;
 }
 
-function calculateTime() {
-    let 
-}
 
 function randomOperationGenerator() {
     sign = Randomizer.nextInt(3, 0) - 1;
